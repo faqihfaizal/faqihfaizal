@@ -27,6 +27,7 @@ test case creation, test execution, bug reporting, and test summary reporting.
 - **GitHub** – version control and QA portfolio repository  
 
 ### 📂 QA Portfolio
+- 🔗 [Registration Test Case](https://docs.google.com/spreadsheets/d/1kLJryo1TVg7C79PTYC9shT_YQuelWJ72/edit?usp=drive_link&ouid=104683992622158683578&rtpof=true&sd=true)
 - 🔗 [Mobile Banking Automation](https://github.com/faqihfaizal/mobile-banking-katalon)
 
 ### 🎯 Current Goal
