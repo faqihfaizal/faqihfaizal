@@ -27,7 +27,8 @@ test case creation, test execution, bug reporting, and test summary reporting.
 - **GitHub** – version control and QA portfolio repository  
 
 ### 📂 QA Portfolio
-- 🔗 
+- 🔗 Mobile Bangking Katalon
+  https://github.com/faqihfaizal/mobile-banking-katalon.git
 
 ### 🎯 Current Goal
 Actively seeking QA internship or junior QA opportunities.
