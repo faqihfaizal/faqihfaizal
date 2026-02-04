@@ -27,8 +27,7 @@ test case creation, test execution, bug reporting, and test summary reporting.
 - **GitHub** – version control and QA portfolio repository  
 
 ### 📂 QA Portfolio
-- 🔗 Login Feature Testing (Manual QA)  
-  https://github.com/username/qa-login-testing
+- 🔗 [Mobile Banking Automation](https://github.com/faqihfaizal/mobile-banking-katalon)
 
 ### 🎯 Current Goal
 Actively seeking QA internship or junior QA opportunities.
