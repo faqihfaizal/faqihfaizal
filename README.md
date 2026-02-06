@@ -28,7 +28,7 @@ test case creation, test execution, bug reporting, and test summary reporting.
 
 ### 📂 QA Portfolio
 - 🔗 [Registration Test Case](https://docs.google.com/spreadsheets/d/11_bL8pm9meOIXhAqqT4hNSUEt0MhqLo6ULrQoSv85o8/edit?usp=sharing)
-- 🔗 [Mobile Banking Automation](https://github.com/faqihfaizal/mobile-banking-katalon)
+- 🔗 [Mobile Banking](https://github.com/faqihfaizal/mobile-banking)
 
 ### 📜 Certifications
 - [Web Development with Node.js and React](https://drive.google.com/file/d/1zI6rtZwYaLOn70i8Jrd2VagsRPKNybUX/view?usp=sharing)
