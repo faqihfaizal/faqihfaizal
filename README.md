@@ -7,11 +7,14 @@ test case creation, test execution, bug reporting, and test summary reporting.
 
 ### 🔧 Skills
 - Manual Testing
+- Automation Testing (Katalon Studio, Playwright)
 - Test Planning
 - Test Case Design
+- Performance Testing
 - Functional Testing
+- API Testing
 - Bug Reporting
-- Basic Automation Testing (Katalon Studio, Playwright)
+- Agile Testing 
 
 ## 🛠 Tools 🔧
 
@@ -32,6 +35,7 @@ test case creation, test execution, bug reporting, and test summary reporting.
 
 ### 📜 Certifications
 - [Web Development with Node.js and React](https://drive.google.com/file/d/1zI6rtZwYaLOn70i8Jrd2VagsRPKNybUX/view?usp=sharing)
+- [The Complete 2026 Software Testing Bootcamp](https://drive.google.com/file/d/1kMaWC3PxMYMDPEKxk2WPhw7ACFCTfp6H/view?usp=sharing)
 
 ### 🎯 Current Goal
 Actively seeking QA internship or junior QA opportunities.
